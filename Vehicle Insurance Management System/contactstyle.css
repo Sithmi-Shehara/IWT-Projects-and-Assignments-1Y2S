@@ -1,0 +1,133 @@
+.bodyimage {
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat; 
+    background-size:cover;
+    height: 100vh;
+    width: 100lh;
+    z-index: -1;
+    position: fixed;
+
+}
+.footerbutton{
+    margin-top: 400px;
+}
+
+
+.profileImage1 {
+
+    min-height: 50px;
+    max-width: 50px;
+    border-radius: 50px;
+
+}
+
+.navigationBar {
+    background-color: rgb(4, 4, 95);
+    width: 230px;
+    height: 900px;
+
+}
+
+.DashBoard {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ImageandDashboard {
+    display: flex;
+}
+
+h2 {
+    text-align-last: right;
+    vertical-align: top;
+}
+
+
+
+.footerline1 {
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+.footerline2 {
+    text-align: center;
+    font-style: inherit;
+    color: black;
+}
+
+.footerlastline {
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid black;
+   
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container img {
+    width: 50px;
+    height: 50px;
+    margin-right: 100px;
+
+}
+
+header {
+    position: relative;
+    height: 50px;
+    background-color: #403c3c;
+    color: #4ec3d5;
+}
+
+form {
+    position: relative;
+    top: 50px;
+    
+}
+.form-form{
+    display: flex;
+    justify-content: start;
+}
+
+.googleimage{
+    margin-top: 60px;
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.topicUs{
+    display: flex;
+    justify-content: center;
+}
+
+.topicContact_us{
+    justify-content: center;
+}
+
+.topicWheretofinus{
+justify-content: center;
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+}
